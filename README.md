@@ -12,11 +12,11 @@ An interactive and responsive accordion built with **React** and **Tailwind CSS*
 
 ### Single Selection Mode
 
-![Single Selection](./assets/ss1.png)
+![Single Selection](/assets/ss1.png)
 
 ### Multiple Selection Mode
 
-![Multiple Selection](./assets/ss2.png)
+![Multiple Selection](/assets/ss2.png)
 
 ---
 
